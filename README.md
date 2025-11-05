@@ -47,7 +47,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-⭐ *Este README forma parte de mi perfil público de GitHub: [`anbead20/anbead20`](https://github.com/anbead20/anbead20).*
