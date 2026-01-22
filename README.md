@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy <strong>Adrián Anta Bellido</strong></h1>
+<h1 align="center">👋 ¡Hola! Soy Adrián Anta Bellido</h1>
 <h3 align="center">💻 Estudiante de Desarrollo de Aplicaciones Web | Apasionado por el Frontend y el diseño web</h3>
 
 ---
