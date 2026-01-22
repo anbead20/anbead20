@@ -37,7 +37,7 @@
 
 ---
 
-### 🌐 Conecta conmigo
+### 🌐 Contacta conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adri%C3%A1n-anta-bellido-a62ba7339/">
