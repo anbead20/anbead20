@@ -64,11 +64,6 @@ Soy un desarrollador apasionado por la creación de aplicaciones web modernas, e
 <p align="center">
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=anbead20&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </p>
-<details>
-  <summary>¿No ves las estadísticas arriba?</summary>
-
-  Es posible que los servidores externos estén caídos o que GitHub haya limitado su uso. Consulta mis repositorios manualmente o revisa mi actividad en la pestaña "Repositories" (Repos).
-</details>
 
 ---
 
