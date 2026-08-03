@@ -1,68 +1,67 @@
-<h1 align="center">¡Hola! Soy Adrián Anta Bellido 👋</h1>
-<p align="center"><b>Desarrollador de Aplicaciones Web</b> | <b>Full Stack Developer en progreso</b></p>
+<h1 align="center">Adrián Anta Bellido</h1>
+<p align="center"><b>Full Stack Developer Junior</b> · <b>Web Development & Cybersecurity</b></p>
 
 ---
 
-## 🚀 Sobre mí
+## 🧑‍💻 Perfil Profesional
 
-¡Bienvenido/a a mi perfil de GitHub!  
-Soy un desarrollador apasionado por la creación de aplicaciones web modernas, eficientes y escalables. Actualmente, continúo mi formación en el ámbito del Desarrollo de Aplicaciones Web, centrándome tanto en el backend como en el frontend.
+Desarrollador Full Stack Junior con formación en **Desarrollo de Aplicaciones Web** y experiencia práctica en proyectos de **ciberseguridad, auditorías técnicas y desarrollo web**.  
+Me especializo en crear interfaces eficientes, seguras y optimizadas, trabajando tanto en el **frontend** como en el **backend**.
 
-- 📚 Siempre aprendiendo sobre nuevas tecnologías y mejores prácticas en desarrollo web.
-- 💡 Me encanta transformar ideas en productos prácticos y bien diseñados.
-- 🤝 Abierto a colaborar en proyectos interesantes, startups y retos de programación.
-- 🎯 En busca de oportunidades para crecer profesionalmente y aportar valor mediante el código.
-- 🌱 Interesado en el desarrollo ágil, buenas prácticas, pruebas, automatización y CI/CD.
+Mi enfoque se basa en:
+- Desarrollo web moderno con **Angular, React, Node.js y WordPress**  
+- Integración de APIs, optimización de rendimiento y buenas prácticas  
+- Seguridad web, análisis técnico y pentesting básico  
+- Diseño limpio, modular y orientado a la experiencia de usuario  
+
+Comprometido con el aprendizaje continuo y la mejora constante, busco oportunidades para crecer profesionalmente y aportar valor en entornos tecnológicos.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></td>
-  </tr>
-</table>
+### Lenguajes y Frameworks
+- HTML5 · CSS3 · JavaScript  
+- PHP · Python  
+- Angular · React · Node.js  
 
-**Otras habilidades:**  
-- Consumo y diseño de APIs REST  
-- Control de versiones con Git & GitHub  
-- Manejo básico de entornos Linux  
-- Familiaridad con metodologías ágiles (Scrum, Kanban)  
-- Experiencia con Docker (básica)  
-- Pruebas unitarias y automatización básica
+### Bases de Datos
+- MySQL · MongoDB
+
+### Herramientas y Entornos
+- Git & GitHub  
+- WordPress · TailwindCSS  
+- Linux · Docker (básico)  
+- Burp Suite · OWASP · OSINT
 
 ---
 
-## 🏆 Proyectos Destacados
+## 🚀 Proyectos Destacados
 
-- **[Nombre del Proyecto 1](#)**  
-  Descripción breve, tecnologías usadas, retos, logros...
+### **Proyecto 113 – Landing Page Empresarial**
+Desarrollo de una landing page profesional con enfoque SEO, estructura modular y optimización de rendimiento en WordPress + Kadence.
 
-- **[Nombre del Proyecto 2](#)**  
-  Descripción breve, tecnologías usadas, retos, logros...
+### **Vender-oro.es – Plataforma Comercial**
+Implementación y optimización de una web comercial con copywriting, estructura premium y mejoras de conversión.
 
-*(Añade aquí los enlaces a tus mejores proyectos y una breve descripción de cada uno)*
+---
+
+## 🔐 Experiencia en Ciberseguridad
+
+- Auditorías de seguridad en aplicaciones web  
+- Pruebas de penetración (SQL Injection, XSS, OWASP Top 10)  
+- Análisis forense básico y documentación técnica  
+- Automatización de procesos y herramientas internas  
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-<!-- Si el enlace de GitHub Stats no funciona, reemplázalo por badge directo o elimina la sección -->
-
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=anbead20&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de Adrián" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=anbead20&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=anbead20&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=anbead20&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -80,10 +79,7 @@ Soy un desarrollador apasionado por la creación de aplicaciones web modernas, e
 
 ---
 
-## 📝 Frase Favorita
+## 📝 Filosofía
 
-> "El aprendizaje constante es la clave del éxito en el mundo tecnológico."
+> “La tecnología avanza rápido; mi compromiso es avanzar con ella.”
 
----
-
-¡Gracias por visitar mi perfil! No dudes en contactarme para colaborar o intercambiar ideas 😊
