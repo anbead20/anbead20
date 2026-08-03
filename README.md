@@ -3,7 +3,7 @@
 
 ---
 
-## 🧑‍💻 Desarrollador Web
+## 🧑‍💻 Perfil Profesional
 
 Desarrollador Full Stack Junior con formación en **Desarrollo de Aplicaciones Web** y experiencia práctica en entornos de **ciberseguridad, auditorías técnicas y desarrollo web**.  
 Trabajo con tecnologías modernas orientadas a la construcción de aplicaciones eficientes, seguras y escalables.
