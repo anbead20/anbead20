@@ -65,17 +65,11 @@ Trabajo con tecnologías modernas orientadas a la creación de aplicaciones efic
 ## 📈 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anbead20&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=anbead20&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbead20&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=anbead20&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anbead20&theme=tokyonight&hide_border=true" />
-</p>
-
 
 ---
 
