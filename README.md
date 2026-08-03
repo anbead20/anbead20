@@ -3,20 +3,14 @@
 
 ---
 
-## 🧑‍💻 Perfil Profesional
+## Perfil Profesional
 
-Desarrollador Full Stack Junior con formación en **Desarrollo de Aplicaciones Web** y experiencia práctica en entornos de **ciberseguridad, auditorías técnicas y desarrollo web**.  
-Trabajo con tecnologías modernas orientadas a la construcción de aplicaciones eficientes, seguras y escalables.
-
-Mi enfoque se centra en:
-- Desarrollo frontend y backend con **Angular, React, Node.js y PHP**  
-- Integración de APIs y optimización de rendimiento  
-- Seguridad web, análisis técnico y prácticas OWASP  
-- Diseño modular, mantenible y orientado a buenas prácticas  
+Desarrollador Full Stack Junior con formación en Desarrollo de Aplicaciones Web y experiencia práctica en ciberseguridad, auditorías técnicas y desarrollo web.  
+Trabajo con tecnologías modernas orientadas a la creación de aplicaciones eficientes, seguras y escalables. Mi enfoque incluye desarrollo frontend y backend, integración de APIs, optimización de rendimiento y aplicación de prácticas OWASP.
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 ### Lenguajes y Frameworks
 - HTML · CSS · JavaScript  
@@ -34,16 +28,16 @@ Mi enfoque se centra en:
 
 ---
 
-## 🔐 Ciberseguridad
+## Ciberseguridad
 
 - Auditorías de seguridad en aplicaciones web  
-- Pruebas de penetración
+- Pruebas de penetración  
 - Análisis forense básico  
 - Documentación técnica y automatización de procesos internos  
 
 ---
 
-## 📊 Actividad en GitHub
+## Actividad en GitHub
 
 <p align="center">
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=anbead20&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -54,7 +48,7 @@ Mi enfoque se centra en:
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adri%C3%A1n-anta-bellido-a62ba7339/" target="_blank">
